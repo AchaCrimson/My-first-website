@@ -1,0 +1,10 @@
+body{background-color: lightgray;
+
+}
+		h1{color: darkmagenta;font-size: 42px}
+		h2{color: firebrick;font-size: 36px;}
+		#first{font-family: sans-serif;}
+
+		.small{
+			font-size: 26px;
+		}
